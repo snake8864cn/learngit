@@ -4,3 +4,4 @@ test merge master to dev
 test merge master to dev2
 modify in both master & dev branch
 test no fast forward
+fixed issue 101
